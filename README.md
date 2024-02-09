@@ -1,2 +1,2 @@
-# Pytohon_practic2
+# Python_practic2
 учебный
